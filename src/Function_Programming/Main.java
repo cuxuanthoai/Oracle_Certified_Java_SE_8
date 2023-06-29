@@ -44,6 +44,9 @@ public class Main {
     }
 
 }
+//          Lambda expressions can access static variables, instance
+//        variables, effectively final method parameters, and effectively
+//          final local variables.
 
 interface  Gorilla {
     String move();
