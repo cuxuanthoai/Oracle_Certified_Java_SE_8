@@ -1,5 +1,3 @@
-package OCP.P1;
-
 import java.sql.*;
 
 public  class Question53 {

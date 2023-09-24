@@ -7,11 +7,11 @@ import java.nio.file.Paths;
 
 public class Test {
     public static void main(String[] args) throws IOException {
-        String path = "C:\\Users\\ad\\Downloads\\OCP_Oracle_Certified_Professional_Java_SE_8\\src\\OCP.P8.P1\\Question";
+       /* String path = "C:\\Users\\ad\\Downloads\\OCP_Oracle_Certified_Professional_Java_SE_8\\src\\OCP.P8.P1\\Question";
         Path newfile ;
         for (int  i = 0 ; i < 90 ;  i++){
             newfile = Paths.get(path+i+".java");
-            Files.createFile(newfile);
+            Files.createFile(newfile);*/
         }
 
         //Function Create class Question
@@ -35,4 +35,4 @@ public class Test {
 
 
     }
-}
+
